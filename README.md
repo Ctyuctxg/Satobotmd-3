@@ -35,7 +35,7 @@ git clone https://github.com/Ctyuctxg/Satobotmd-3?organization=Ctyuctxg&organiza
 ```
 **5° Comando**
 ```
-cd /sdcard/sakura-botv6
+cd /sdcard/Satobotmd-3
 ```
 
 ## Iniciar o Bot  <img src="https://user-images.githubusercontent.com/108157095/182053901-78e4a217-51ba-42a3-8ec5-38ed978ad752.png" height="25px">
